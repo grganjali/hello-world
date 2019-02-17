@@ -1,4 +1,5 @@
 # hello-world
-first repository
-Starting the work here. Yay!!
+MASTER BRANCH ORIGINAL: first repository
+SECOND: GO AHEAD AND OBSERVE THE CHANGES
+README-EDIT FIRST: Starting the work here. Yay!!
 
